@@ -1,0 +1,5 @@
+C:\Users\ESiwady\Documents\AcklenTrainingFiles\Mocking\MockingExercises\bin\Debug\MockingExercises.dll
+C:\Users\ESiwady\Documents\AcklenTrainingFiles\Mocking\MockingExercises\bin\Debug\MockingExercises.pdb
+C:\Users\ESiwady\Documents\AcklenTrainingFiles\Mocking\MockingExercises\obj\Debug\MockingExercises.dll
+C:\Users\ESiwady\Documents\AcklenTrainingFiles\Mocking\MockingExercises\obj\Debug\MockingExercises.pdb
+C:\Users\ESiwady\Documents\AcklenTrainingFiles\Mocking\MockingExercises\obj\Debug\MockingExercises.csprojResolveAssemblyReference.cache
